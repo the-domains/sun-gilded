@@ -1,0 +1,14 @@
+layout_spectrum: 0.866643245331943
+typography_spectrum: 0.6514571558218449
+color:
+  brandStrength: 0.7643962376751006
+  lightness: 0.11358143482357264
+  saturation: 0.8984401242341846
+  rhythmicContrast: 0.8593654660508037
+  brandColors:
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
+name: Sun Gilded
