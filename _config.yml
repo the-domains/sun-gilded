@@ -1,4 +1,3 @@
-layout_spectrum: 0.866643245331943
 typography_spectrum: 0.6514571558218449
 color:
   brandStrength: 0.7643962376751006
@@ -11,4 +10,6 @@ color:
     - '#F7E967'
     - '#A9CF54'
     - '#588F27'
+layout_spectrum: 0.866643245331943
 name: Sun Gilded
+description: Green Terpine
